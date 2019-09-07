@@ -1,13 +1,3 @@
-"""This file describes the heroic adventurer Druid1.
-
-It's used primarily for saving characters from create-character,
-where there will be many missing sections.
-
-Modify this file as you level up and then re-generate the character
-sheet by running ``makesheets`` from the command line.
-
-"""
-
 dungeonsheets_version = "0.9.4"
 
 name = "Kelgar Ironfist"
@@ -15,7 +5,7 @@ player_name = "Mike"
 
 # Be sure to list Primary class first
 classes = ['Druid']  # ex: ['Wizard'] or ['Rogue', 'Fighter']
-levels = [18]  # ex: [10] or [3, 2]
+levels = [1]  # ex: [10] or [3, 2]
 subclasses = [None]  # ex: ['Necromacy'] or ['Thief', None]
 background = "Wanderer"
 race = "Hill Dwarf"
@@ -58,7 +48,7 @@ weapon_proficiencies = ()  # ex: ('shortsword', 'quarterstaff')
 _proficiencies_text = ()  # ex: ("thieves' tools",)
 
 # Proficiencies and languages
-languages = """Common, Halfling"""
+languages = """Common, Druidic"""
 
 # Inventory
 # TODO: Get yourself some money
@@ -73,14 +63,14 @@ magic_items = ()  # Example: ('ring of protection',)
 armor = "hide armor"  # Eg "leather armor"
 shield = ""  # Eg "shield"
 
-equipment = """TODO: list the equipment and magic items your character carries"""
+equipment = """TODO: Buy some stuff at the start of the quest."""
 
 attacks_and_spellcasting = """TODO: Describe how your character usually attacks
 or uses spells."""
 
 # List of known spells
 # Example: spells_prepared = ('magic missile', 'mage armor')
-spells_prepared = ('shillelagh', 'druidcraft')
+spells_prepared = ('druidcraft', 'shillelagh')
 
 # Which spells have not been prepared
 __spells_unprepared = ()
@@ -92,8 +82,7 @@ wild_shapes = ['Wolf']
 
 # Backstory
 # Describe your backstory here
-personality_traits = """TODO: How does your character behave? See the PHB for
-examples of all the sections below"""
+personality_traits = """TODO: Describe my personality traits."""
 
 ideals = """TODO: What does your character believe in?"""
 
@@ -103,5 +92,4 @@ and other commitments or ongoing quests they have."""
 flaws = """TODO: Describe your characters interesting flaws.
 """
 
-features_and_traits = """TODO: Describe other features and abilities your
-character has."""
+features_and_traits = """None."""
