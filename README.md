@@ -1,8 +1,8 @@
 # DnD Character
 
-Build using [dungeon-sheets](https://github.com/canismarko/dungeon-sheets).
+Build using [dungeon-sheets](https://github.com/Tim-Jackins/dungeon-sheets).
 
 ```bash
-$ pip install dungeonsheets
+$ pip install https://github.com/Tim-Jackins/dungeon-sheets/zipball/master
 $ makesheets <character name>.py
 ```
