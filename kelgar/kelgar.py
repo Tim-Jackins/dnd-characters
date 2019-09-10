@@ -12,7 +12,7 @@ race = "Hill Dwarf"
 alignment = "Neutral"
 
 xp = 0
-hp_max = 12
+hp_max = 13
 inspiration = 0  # integer inspiration value
 
 # Ability Scores
@@ -36,7 +36,7 @@ skill_expertise = ()
 # Gunslinger, etc.)
 # Example:
 # features = ('Tavern Brawler',) # take the optional Feat from PHB
-features = ()
+features = ('WildShape')
 
 # If selecting among multiple feature options: ex Fighting Style
 # Example (Fighting Style):
