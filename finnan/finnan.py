@@ -51,11 +51,10 @@ _proficiencies_text = ()  # ex: ("thieves' tools",)
 languages = """Elvish, Common, Draconic"""
 
 # Inventory
-# TODO: Get yourself some money
-cp = 0
-sp = 0
+cp = 4
+sp = 9
 ep = 0
-gp = 0
+gp = 34
 pp = 0
 
 # TODO: Put your equipped weapons and armor here
@@ -64,7 +63,11 @@ magic_items = ()  # Example: ('ring of protection',)
 armor = "leather armor"  # Eg "leather armor"
 shield = ""  # Eg "shield"
 
-equipment = """TODO: list the equipment and magic items your character carries"""
+equipment = """Shortsword, shortbow, 19 arrows, leather armor,
+thieves' tools, backpack, bell, 5 candles, crowbar, hammer,
+10 pitons, 50 feet of hempen rope, hooded lantern, 2 flasks of oil,
+5 days rations, tinderbox, waterskin, crowbar,
+set of dark common clothers including a hood, pouch"""
 
 attacks_and_spellcasting = """TODO: Describe how your character usually attacks
 or uses spells."""
