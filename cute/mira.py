@@ -27,7 +27,12 @@ charisma     = 9  # -1
 
 # Select what skills you're proficient with
 # ex: skill_proficiencies = ('athletics', 'acrobatics', 'arcana')
-skill_proficiencies = ('Arcana', 'Nature')
+skill_proficiencies = (
+  'Arcana', 'Nature', # Chosen
+  'perception', # Druid
+  'athletics', 'survival' # Outlander
+)
+
 
 # Any skills you have "expertise" (Bard/Rogue) in
 skill_expertise = ()
@@ -61,7 +66,7 @@ gp = 40
 pp = 0
 
 # TODO: Put your equipped weapons and armor here
-weapons = ('Scimatar', 'Shortbow')  # Example: ('shortsword', 'longsword')
+weapons = ('Scimitar', 'Shortbow')  # Example: ('shortsword', 'longsword')
 magic_items = ()  # Example: ('ring of protection',)
 armor = 'Leather Armor'  # Eg "leather armor"
 shield = ""  # Eg "shield"
@@ -94,16 +99,12 @@ wild_shapes = ()  # Ex: ('ape', 'wolf', 'ankylosaurus')
 
 # Backstory
 # Describe your backstory here
-personality_traits = """TODO: How does your character behave? See the PHB for
-examples of all the sections below"""
+personality_traits = '''I have a lesson for every situation drawn from observing nature.'''
 
-ideals = """TODO: What does your character believe in?"""
+ideals = '''Nature: The natural world is more imprtant than all the contructs of civilization.'''
 
-bonds = """TODO: Describe what debts your character has to pay,
-and other commitments or ongoing quests they have."""
+bonds = '''I suffer awful visions of a coming disaster and will do anything to prevent it.'''
 
-flaws = """TODO: Describe your characters interesting flaws.
-"""
+flaws = '''I remember every insult I've ever received and and nurse a silent resentment toward anyone who's ever wronged me.'''
 
-features_and_traits = """TODO: Describe other features and abilities your
-character has."""
+features_and_traits = ''''''
