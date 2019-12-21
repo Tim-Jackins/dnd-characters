@@ -63,10 +63,11 @@ magic_items = ()  # Example: ('ring of protection',)
 armor = "hide armor"  # Eg "leather armor"
 shield = ""  # Eg "shield"
 
-equipment = """TODO: Buy some stuff at the start of the quest."""
+equipment = """Leather armor, longbow, 20 arrows, greatsword, backpack, bedroll,
+messkit, tinderbox, 10 torches, 10 days of rations, waterskin, 50 feet of
+hempen rope, carpenter's tools, shovel, iron pot, set of common clothes, pouch."""
 
-attacks_and_spellcasting = """TODO: Describe how your character usually attacks
-or uses spells."""
+attacks_and_spellcasting = """"""
 
 # List of known spells
 # Example: spells_prepared = ('magic missile', 'mage armor')
@@ -82,14 +83,12 @@ wild_shapes = ['Wolf']
 
 # Backstory
 # Describe your backstory here
-personality_traits = """TODO: Describe my personality traits."""
+personality_traits = """"""
 
-ideals = """TODO: What does your character believe in?"""
+ideals = """"""
 
-bonds = """TODO: Describe what debts your character has to pay,
-and other commitments or ongoing quests they have."""
+bonds = """"""
 
-flaws = """TODO: Describe your characters interesting flaws.
-"""
+flaws = """"""
 
-features_and_traits = """None."""
+features_and_traits = """"""
