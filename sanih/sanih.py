@@ -149,4 +149,7 @@ I obey the law even if the law causes misery.
 features_and_traits = '''
 Sanih is born and raised in Calimport. She has served in temple of Waukeen
 and as healer in local army. She hopes to earn good amount of money as adventurer.
+
+Hook: She heard the house of mercenaries are willing to pay 2000gp for the capture
+(dead or alive) of "One-eye" the 
 '''

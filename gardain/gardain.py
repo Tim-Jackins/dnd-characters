@@ -136,4 +136,6 @@ features_and_traits = '''
 Gardain is born and raised in city of Telos. He has spent most of his life as
 guard in local temple. He is very dedicated to find and learn about ancient
 temples and holy relics.
+
+Hook: You are looking for work while you find the Lost Temple of Semuanya.
 '''
