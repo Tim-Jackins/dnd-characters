@@ -131,4 +131,7 @@ features_and_traits = '''
 Malark is born and raised in city of Baldur's Gate. He established connections
 to local criminals at young age. He has travelled lot and made living by
 smuggling narcotics between harbour towns.
+
+Hook: Malark is search of more money when he here's that the house of mercenaries are willing to pay 1000gp for the capture
+(dead or alive) of "One-eye" the pirate.
 '''
